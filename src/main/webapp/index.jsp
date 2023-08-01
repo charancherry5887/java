@@ -1,6 +1,6 @@
 <!DOCTYPE>
 <html>
-<tittle> MY WEB APP </tittle>
+<title> MY WEB APP </title>
 <body>
 <h2>Hello World!</h2>
 </body>
